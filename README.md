@@ -1,9 +1,5 @@
 # wordway-wordbooks
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=lijy91%40live.com&currency_code=USD&source=url)
-
-[English](./README.en_US.md) | 简体中文
-
 ## 简介
 
 Wordbooks for wordway.
@@ -12,11 +8,19 @@ Wordbooks for wordway.
 
 这些是此代码库中的可用单词本。
 
-| Wordbook                                                                        | Word count                                                               | Last update                                                                               |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
-| [wordbook-example](https://github.com/wordway/wordbook-example)                 | ![#](https://wordway-api-dev.thecode.me/wordbooks/example/badge)         | ![#](https://wordway-api-dev.thecode.me/wordbooks/example/badge?type=last_update)         |
-| [wordbook-gitscm](https://github.com/wordway/wordbook-gitscm)                   | ![#](https://wordway-api-dev.thecode.me/wordbooks/gitscm/badge)          | ![#](https://wordway-api-dev.thecode.me/wordbooks/gitscm/badge?type=last_update)          |
-| [wordbook-httpstatuscodes](https://github.com/wordway/wordbook-httpstatuscodes) | ![#](https://wordway-api-dev.thecode.me/wordbooks/httpstatuscodes/badge) | ![#](https://wordway-api-dev.thecode.me/wordbooks/httpstatuscodes/badge?type=last_update) |
+<!--WORDWAY-CLI-GENERATE-->
+
+| Wordbook | Word count | Last update |
+| -------- | ---------- | ----------- |
+| [JavaScript 常用词汇](https://github.com/wordway/wordbook-javascript) | ![#](https://img.shields.io/badge/word%20count-2-blue.svg) | ![#](https://img.shields.io/date/1569037933?label=last%20update) |
+| [TypeScript 常用词汇](https://github.com/wordway/wordbook-typescript) | ![#](https://img.shields.io/badge/word%20count-2-blue.svg) | ![#](https://img.shields.io/date/1569037940?label=last%20update) |
+| [基本英语](https://github.com/wordway/wordbook-basic-english) | ![#](https://img.shields.io/badge/word%20count-850-blue.svg) | ![#](https://img.shields.io/date/1567930983?label=last%20update) |
+| [HTTP 状态码词汇](https://github.com/wordway/wordbook-httpstatuscodes) | ![#](https://img.shields.io/badge/word%20count-112-blue.svg) | ![#](https://img.shields.io/date/1568456817?label=last%20update) |
+| [Git 常用词汇](https://github.com/wordway/wordbook-gitscm) | ![#](https://img.shields.io/badge/word%20count-33-blue.svg) | ![#](https://img.shields.io/date/1568456812?label=last%20update) |
+| [示例](https://github.com/wordway/wordbook-example) | ![#](https://img.shields.io/badge/word%20count-2-blue.svg) | ![#](https://img.shields.io/date/1569037204?label=last%20update) |
+| [中国程序员容易发音错误的单词]() | ![#](https://img.shields.io/badge/word%20count-82-blue.svg) | ![#](https://img.shields.io/date/1568456809?label=last%20update) |
+
+<!--WORDWAY-CLI-GENERATE-->
 
 ## 探讨
 
