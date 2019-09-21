@@ -1,0 +1,15 @@
+[submodule "wordbooks/wordbook-example"]
+	path = wordbooks/wordbook-example
+	url = https://github.com/wordway/wordbook-example.git
+[submodule "wordbooks/wordbook-gitscm"]
+	path = wordbooks/wordbook-gitscm
+	url = https://github.com/wordway/wordbook-gitscm.git
+[submodule "wordbooks/wordbook-basic-english"]
+	path = wordbooks/wordbook-basic-english
+	url = https://github.com/wordway/wordbook-basic-english.git
+[submodule "wordbooks/wordbook-javascript"]
+	path = wordbooks/wordbook-javascript
+	url = https://github.com/wordway/wordbook-javascript.git
+[submodule "wordbooks/wordbook-typescript"]
+	path = wordbooks/wordbook-typescript
+	url = https://github.com/wordway/wordbook-typescript.git
