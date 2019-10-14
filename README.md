@@ -12,6 +12,7 @@ Wordbooks for wordway.
 
 | Wordbook | Word count | Last update |
 | -------- | ---------- | ----------- |
+| [Kubernetes 常用词汇](https://github.com/wordway/wordbook-kubernetes) | ![#](https://img.shields.io/badge/word%20count-66-blue.svg) | ![#](https://img.shields.io/date/1571050903?label=last%20update) |
 | [JavaScript 常用词汇](https://github.com/wordway/wordbook-javascript) | ![#](https://img.shields.io/badge/word%20count-63-blue.svg) | ![#](https://img.shields.io/date/1570546494?label=last%20update) |
 | [Java 常用词汇](https://github.com/wordway/wordbook-java) | ![#](https://img.shields.io/badge/word%20count-52-blue.svg) | ![#](https://img.shields.io/date/1570546472?label=last%20update) |
 | [HTTP 状态码词汇](https://github.com/wordway/wordbook-httpstatuscodes) | ![#](https://img.shields.io/badge/word%20count-112-blue.svg) | ![#](https://img.shields.io/date/1570546435?label=last%20update) |
