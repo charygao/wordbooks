@@ -12,7 +12,8 @@ Wordbooks for wordway.
 
 | Wordbook | Word count | Last update |
 | -------- | ---------- | ----------- |
-| [Vue 常用词汇](https://github.com/wordway/wordbook-vue) | ![#](https://img.shields.io/badge/word%20count-23-blue.svg) | ![#](https://img.shields.io/date/1571207828?label=last%20update) |
+| [中国程序员容易发音错误的单词](https://github.com/wordway/wordbook-chinese-programmer-wrong-pronunciation) | ![#](https://img.shields.io/badge/word%20count-73-blue.svg) | ![#](https://img.shields.io/date/1572260695?label=last%20update) |
+| [Vue 常用词汇](https://github.com/wordway/wordbook-vue) | ![#](https://img.shields.io/badge/word%20count-22-blue.svg) | ![#](https://img.shields.io/date/1572091709?label=last%20update) |
 | [Kubernetes 常用词汇](https://github.com/wordway/wordbook-kubernetes) | ![#](https://img.shields.io/badge/word%20count-66-blue.svg) | ![#](https://img.shields.io/date/1571079703?label=last%20update) |
 | [JavaScript 常用词汇](https://github.com/wordway/wordbook-javascript) | ![#](https://img.shields.io/badge/word%20count-63-blue.svg) | ![#](https://img.shields.io/date/1571088716?label=last%20update) |
 | [Java 常用词汇](https://github.com/wordway/wordbook-java) | ![#](https://img.shields.io/badge/word%20count-52-blue.svg) | ![#](https://img.shields.io/date/1570575272?label=last%20update) |
