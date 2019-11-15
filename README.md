@@ -24,8 +24,10 @@ Wordbooks for wordway.
 
 <!--WORDWAY-CLI-GENERATE-->
 
-## 探讨
+## 讨论
 
-如果您对此项目有任何建议或疑问，可以通过 [Telegram Group](https://t.me/wordway) 或我的微信进行讨论。
+欢迎加入「wordway」的微信群或 [Telegram Group](https://t.me/wordway) 与我分享你的建议和想法。
 
-![](./screenshots/wechat_qrcode.png)
+> 由于微信的限制，请先添加我的微信号并备注『加入 wordway 用户群』。
+
+![开发者微信](https://wordway-storage.thecode.me/screenshots/wechat_qrcode.png?imageView2/2/w/280/format/png)
