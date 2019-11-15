@@ -1,5 +1,10 @@
 # wordway-wordbooks
 
+[![Join the chat][telegram-image]][telegram-url]
+
+[telegram-image]:https://img.shields.io/badge/chat-on%20telegram-blue.svg
+[telegram-url]: https://t.me/wordway
+
 ## 单词本
 
 这些是此代码库中的可用单词本。
