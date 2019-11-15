@@ -1,9 +1,5 @@
 # wordway-wordbooks
 
-## 简介
-
-Wordbooks for wordway.
-
 ## 单词本
 
 这些是此代码库中的可用单词本。
