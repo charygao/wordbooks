@@ -9,7 +9,7 @@ info:
   visibility: public
   difficulty_level: D1
   repository_type: git
-  repository_url: https://github.com/wordway/wordbook-javascript
+  repository_url: https://github.com/wordway/wordway-wordbooks/tree/master/wordbook-javascript
   author: 痕迹
   author_email: lijy91@foxmail.com
 words:

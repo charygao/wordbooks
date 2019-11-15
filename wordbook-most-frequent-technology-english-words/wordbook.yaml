@@ -8,7 +8,7 @@ info:
   visibility: public
   difficulty_level: D3
   repository_type: git
-  repository_url: https://github.com/wordway/wordbook-most-frequent-technology-english-words
+  repository_url: https://github.com/wordway/wordway-wordbooks/tree/master/wordbook-most-frequent-technology-english-words
   author: "Wei-Xia"
   author_email: "hi@weixia.dev"
   author_link: "https://github.com/Wei-Xia/most-frequent-technology-english-words"
