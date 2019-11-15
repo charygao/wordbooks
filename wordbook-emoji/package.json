@@ -1,0 +1,7 @@
+{
+  "name": "wordbook-emoji",
+  "version": "1.0.0",
+  "dependencies": {
+    "yamljs": "^0.3.0"
+  }
+}

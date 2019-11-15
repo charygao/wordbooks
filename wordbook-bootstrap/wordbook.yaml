@@ -1,0 +1,14 @@
+wordway: 1.0.0
+info:
+  slug: bootstrap
+  title: "Bootstrap 常用词汇"
+  summary: ""
+  tags:
+    - wordway
+    - bootstrap
+  visibility: public
+  difficulty_level: D1
+  repository_type: git
+  repository_url: https://github.com/wordway/wordbook-bootstrap
+  author: 痕迹
+  author_email: lijy91@foxmail.com

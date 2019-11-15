@@ -1,0 +1,129 @@
+wordway: 1.0.0
+info:
+  slug: chinese-programmer-wrong-pronunciation
+  title: 中国程序员容易发音错误的单词
+  summary: ""
+  tags:
+    - wordway
+    - chinese-programmer-wrong-pronunciation
+  visibility: public
+  difficulty_level: D2
+  repository_type: git
+  repository_url: https://github.com/wordway/wordbook-chinese-programmer-wrong-pronunciation
+  author: "Shimo HQ"
+  author_email: ""
+  author_link: "https://github.com/shimohq/chinese-programmer-wrong-pronunciation"
+words:
+  - word: access
+  - word: Adobe
+    remark: Adobe公司，是美国一家跨国计算机软件公司，总部位于加州的圣何塞，其官方大中华部门内也常以中文“奥多比”自称。主要从事多媒体制作类软件的开发，近年亦开始涉足丰富互联网应用程序、市场营销应用程序、金融分析应用程序等软件开发。
+  - word: admin
+  - word: agile
+  - word: Amazon
+  - word: analogy
+  - word: Angular
+  - custom: true
+    word: AJAX
+    remark: AJAX即“Asynchronous JavaScript and XML”（异步的JavaScript与XML技术），指的是一套综合了多项技术的浏览器端网页开发技术。
+    us_ipa: ˈeɪ.dʒæks
+    us_pronunciation_url: assets/en-us-ajax.mp3
+  - word: alias
+  - word: Apache
+  - word: app
+  - word: archive
+  - word: array
+  - word: ASCII
+  - word: aspect
+  - word: avatar
+  - word: Azure
+  - word: bind
+  - word: cache
+  - word: clang
+  - word: Daemon
+  - word: deny
+  - word: deque
+  - word: digest
+  # - word: Dijkstra
+  # - word: Django
+  # - word: doc
+  - word: event
+  - word: facade
+  - word: fedora
+    remark: 较具知名度的Linux发行包之一，由Fedora项目社群开发、红帽公司赞助，目标是创建一套新颖、多功能并且自由（开放源代码）的操作系统。
+  - word: format
+  - word: Git
+  - custom: true
+    word: GNU
+    remark: GNU是一个自由的操作系统，其内容软件完全以GPL方式发布。
+    us_ipa: ɡəˈnuː
+    us_pronunciation_url: assets/en-us-gnu.mp3
+  - custom: true
+    word: GUI
+    remark: 图形用户界面（英语：Graphical User Interface，缩写：GUI）是指采用图形方式显示的计算机操作用户界面。
+    us_ipa: ˈɡuːi
+    us_pronunciation_url: assets/en-us-gui.mp3
+  # - word: Haskell
+  - word: height
+  - word: hidden
+  - word: image
+  - word: implement
+  - word: integer
+  - word: issue
+  - word: Java
+  # - word: jpg
+  - word: key
+  - word: lambda
+  - word: linear
+  - word: Linux
+  - word: locale
+  - word: main
+  - word: margin
+  - word: matrix
+  - word: maven
+  - word: Microsoft
+  - word: module
+  - custom: true
+    word: nginx
+    remark: Nginx（发音同engine x）是异步框架的网页服务器，也可以用作反向代理、负载平衡器和HTTP缓存。
+    us_ipa: ˌɛndʒɪnˈɛks
+    us_pronunciation_url: assets/en-us-nginx.mp3
+  - word: "null"
+  - custom: true
+    word: "OS X"
+    remark: 苹果公司推出的基于图形用户界面操作系统，为麦金塔的主操作系统。
+    us_pronunciation_url: assets/en-us-osx.mp3
+  - word: phantom
+  - word: parameter
+  - word: privilege
+  - word: putty
+  - word: query
+  - custom: true
+    word: Qt
+    remark: Qt是一个跨平台的C++应用程序开发框架。
+    us_ipa: ˈkjuːt
+    us_pronunciation_url: assets/en-us-qt.mp3
+  - word: Realm
+  - word: resume
+  - word: resolved
+  - word: resort
+  - word: retina
+  # - word: "san jose"
+  - word: safari
+  - word: scheme
+  - word: segue
+  - custom: true
+    word: SQL
+    remark: SQL是一种特定目的编程语言，用于管理关系数据库管理系统，或在关系流数据管理系统中进行流处理。
+    us_ipa: ˈsiːkwəl
+    us_pronunciation_url: assets/en-us-sql.mp3
+  # - word: sudo
+  - word: suite
+  - word: typical
+  - word: Ubuntu
+    remark: Ubuntu是以桌面应用为主的Linux发行版，Ubuntu由Canonical公司发布，他们提供商业支持。它是基于自由软件，其名称来自非洲南部祖鲁语或科萨语的“ubuntu”一词，意思是“人性”、“我的存在是因为大家的存在”，是非洲传统的一种价值观。
+  - word: variable
+  # - word: vue
+  - word: width
+  # - word: YouTube
+  # - word: Lucene
+  - word: debt

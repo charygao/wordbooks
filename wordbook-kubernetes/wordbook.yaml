@@ -1,0 +1,81 @@
+wordway: 1.0.0
+info:
+  slug: kubernetes
+  title: 'Kubernetes 常用词汇'
+  summary: ""
+  tags:
+    - wordway
+    - Kubernetes
+  visibility: public
+  difficulty_level: D1
+  repository_type: git
+  repository_url: https://github.com/wordway/wordbook-kubernetes
+  author: 痕迹
+  author_email: lijy91@foxmail.com
+words:
+  - word: account
+  - word: binding
+  - word: canary
+  - word: class
+  - word: cluster
+  - word: config
+  - word: container
+  - word: controller
+  - word: deadline
+  - word: default
+  - word: defer
+  - word: deployment
+  - word: docker
+  - word: flannel
+  - word: fluent
+  - word: history
+  - word: images
+  - word: ingress
+  - word: kube
+  - word: labels
+  - word: limit
+  - word: manager
+  - word: map
+  - word: mount
+  - word: namespace
+  - word: network
+  - word: node
+  - word: opaque
+  - word: options
+  - word: panic
+  - word: party
+  - word: persistent
+  - word: policy
+  - word: preset
+  - word: progress
+  - word: proxy
+  - word: pullback
+  - word: quotas
+  - word: reclaiming
+  - word: recycling
+  - word: releasing
+  - word: replica
+  - word: replication
+  - word: rescheduling
+  - word: resource
+  - word: revision
+  - word: rollback
+  - word: rolling
+  - word: rollout
+  - word: rollover
+  - word: running
+  - word: runtime
+  - word: scaling
+  - word: secret
+  - word: selector
+  - word: services
+  - word: spec
+  - word: stateful
+  - word: struct
+  - word: switch
+  - word: system
+  - word: template
+  - word: third
+  - word: using
+  - word: volumes
+  - word: weave

@@ -1,0 +1,276 @@
+slug: chapter3
+title: 'Animals & Nature'
+words:
+  -
+    word: monkey
+    remark: '🐒 monkey'
+  -
+    word: gorilla
+    remark: '🦍 gorilla'
+  -
+    word: orangutan
+    remark: '🦧 orangutan'
+  -
+    word: dog
+    remark: '🐶 dog face'
+  -
+    word: poodle
+    remark: '🐩 poodle'
+  -
+    word: wolf
+    remark: '🐺 wolf'
+  -
+    word: raccoon
+    remark: '🦝 raccoon'
+  -
+    word: cat
+    remark: '🐱 cat face'
+  -
+    word: lion
+    remark: '🦁 lion'
+  -
+    word: tiger
+    remark: '🐯 tiger face'
+  -
+    word: leopard
+    remark: '🐆 leopard'
+  -
+    word: horse
+    remark: '🐴 horse face'
+  -
+    word: racehorse
+    remark: '🐎 horse'
+  -
+    word: unicorn
+    remark: '🦄 unicorn'
+  -
+    word: zebra
+    remark: '🦓 zebra'
+  -
+    word: deer
+    remark: '🦌 deer'
+  -
+    word: cow
+    remark: '🐮 cow face'
+  -
+    word: pig
+    remark: '🐷 pig face'
+  -
+    word: boar
+    remark: '🐗 boar'
+  -
+    word: ram
+    remark: '🐏 ram'
+  -
+    word: sheep
+    remark: '🐑 ewe'
+  -
+    word: goat
+    remark: '🐐 goat'
+  -
+    word: camel
+    remark: '🐫 two-hump camel'
+  -
+    word: llama
+    remark: '🦙 llama'
+  -
+    word: giraffe
+    remark: '🦒 giraffe'
+  -
+    word: elephant
+    remark: '🐘 elephant'
+  -
+    word: rhinoceros
+    remark: '🦏 rhinoceros'
+  -
+    word: hippopotamus
+    remark: '🦛 hippopotamus'
+  -
+    word: mouse
+    remark: '🐭 mouse face'
+  -
+    word: rat
+    remark: '🐀 rat'
+  -
+    word: hamster
+    remark: '🐹 hamster'
+  -
+    word: rabbit
+    remark: '🐰 rabbit face'
+  -
+    word: chipmunk
+    remark: '🐿 chipmunk'
+  -
+    word: hedgehog
+    remark: '🦔 hedgehog'
+  -
+    word: bat
+    remark: '🦇 bat'
+  -
+    word: bear
+    remark: '🐻 bear'
+  -
+    word: koala
+    remark: '🐨 koala'
+  -
+    word: sloth
+    remark: '🦥 sloth'
+  -
+    word: otter
+    remark: '🦦 otter'
+  -
+    word: skunk
+    remark: '🦨 skunk'
+  -
+    word: kangaroo
+    remark: '🦘 kangaroo'
+  -
+    word: badger
+    remark: '🦡 badger'
+  -
+    word: turkey
+    remark: '🦃 turkey'
+  -
+    word: chicken
+    remark: '🐔 chicken'
+  -
+    word: rooster
+    remark: '🐓 rooster'
+  -
+    word: bird
+    remark: '🐦 bird'
+  -
+    word: penguin
+    remark: '🐧 penguin'
+  -
+    word: dove
+    remark: '🕊 dove'
+  -
+    word: eagle
+    remark: '🦅 eagle'
+  -
+    word: duck
+    remark: '🦆 duck'
+  -
+    word: swan
+    remark: '🦢 swan'
+  -
+    word: owl
+    remark: '🦉 owl'
+  -
+    word: flamingo
+    remark: '🦩 flamingo'
+  -
+    word: peacock
+    remark: '🦚 peacock'
+  -
+    word: parrot
+    remark: '🦜 parrot'
+  -
+    word: frog
+    remark: '🐸 frog'
+  -
+    word: crocodile
+    remark: '🐊 crocodile'
+  -
+    word: turtle
+    remark: '🐢 turtle'
+  -
+    word: lizard
+    remark: '🦎 lizard'
+  -
+    word: snake
+    remark: '🐍 snake'
+  -
+    word: dragon
+    remark: '🐉 dragon'
+  -
+    word: sauropod
+    remark: '🦕 sauropod'
+  -
+    word: t-rex
+    remark: '🦖 T-Rex'
+  -
+    word: whale
+    remark: '🐳 spouting whale'
+  -
+    word: fish
+    remark: '🐟 fish'
+  -
+    word: blowfish
+    remark: '🐡 blowfish'
+  -
+    word: shark
+    remark: '🦈 shark'
+  -
+    word: octopus
+    remark: '🐙 octopus'
+  -
+    word: shell
+    remark: '🐚 spiral shell'
+  -
+    word: snail
+    remark: '🐌 snail'
+  -
+    word: butterfly
+    remark: '🦋 butterfly'
+  -
+    word: bug
+    remark: '🐛 bug'
+  -
+    word: ant
+    remark: '🐜 ant'
+  -
+    word: beetle
+    remark: '🐞 lady beetle'
+  -
+    word: cricket
+    remark: '🦗 cricket'
+  -
+    word: spider
+    remark: '🕷 spider'
+  -
+    word: scorpion
+    remark: '🦂 scorpion'
+  -
+    word: mosquito
+    remark: '🦟 mosquito'
+  -
+    word: microbe
+    remark: '🦠 microbe'
+  -
+    word: bouquet
+    remark: '💐 bouquet'
+  -
+    word: rosette
+    remark: '🏵 rosette'
+  -
+    word: rose
+    remark: '🌹 rose'
+  -
+    word: hibiscus
+    remark: '🌺 hibiscus'
+  -
+    word: sunflower
+    remark: '🌻 sunflower'
+  -
+    word: blossom
+    remark: '🌼 blossom'
+  -
+    word: tulip
+    remark: '🌷 tulip'
+  -
+    word: seedling
+    remark: '🌱 seedling'
+  -
+    word: cactus
+    remark: '🌵 cactus'
+  -
+    word: herb
+    remark: '🌿 herb'
+  -
+    word: shamrock
+    remark: '☘ shamrock'
+  -
+    word: leaves
+    remark: '🍃 leaf fluttering in wind'

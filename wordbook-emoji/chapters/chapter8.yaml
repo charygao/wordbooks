@@ -1,0 +1,201 @@
+slug: chapter8
+title: Symbols
+words:
+  -
+    word: atm
+    remark: '🏧 ATM sign'
+  -
+    word: wheelchair
+    remark: '♿ wheelchair symbol'
+  -
+    word: mens
+    remark: '🚹 men’s room'
+  -
+    word: womens
+    remark: '🚺 women’s room'
+  -
+    word: restroom
+    remark: '🚻 restroom'
+  -
+    word: customs
+    remark: '🛃 customs'
+  -
+    word: warning
+    remark: '⚠️ warning'
+  -
+    word: underage
+    remark: '🔞 no one under eighteen'
+  -
+    word: radioactive
+    remark: '☢ radioactive'
+  -
+    word: biohazard
+    remark: '☣ biohazard'
+  -
+    word: back
+    remark: '🔙 BACK arrow'
+  -
+    word: end
+    remark: '🔚 END arrow'
+  -
+    word: soon
+    remark: '🔜 SOON arrow'
+  -
+    word: top
+    remark: '🔝 TOP arrow'
+  -
+    word: menorah
+    remark: '🕎 menorah'
+  -
+    word: aries
+    remark: '♈ Aries'
+  -
+    word: taurus
+    remark: '♉ Taurus'
+  -
+    word: gemini
+    remark: '♊ Gemini'
+  -
+    word: cancer
+    remark: '♋ Cancer'
+  -
+    word: leo
+    remark: '♌ Leo'
+  -
+    word: virgo
+    remark: '♍ Virgo'
+  -
+    word: libra
+    remark: '♎ Libra'
+  -
+    word: scorpius
+    remark: '♏ Scorpio'
+  -
+    word: sagittarius
+    remark: '♐ Sagittarius'
+  -
+    word: capricorn
+    remark: '♑ Capricorn'
+  -
+    word: aquarius
+    remark: '♒ Aquarius'
+  -
+    word: pisces
+    remark: '♓ Pisces'
+  -
+    word: ophiuchus
+    remark: '⛎ Ophiuchus'
+  -
+    word: repeat
+    remark: '🔁 repeat button'
+  -
+    word: rewind
+    remark: '⏪ fast reverse button'
+  -
+    word: cinema
+    remark: '🎦 cinema'
+  -
+    word: infinity
+    remark: '♾ infinity'
+  -
+    word: recycle
+    remark: '♻️ recycling symbol'
+  -
+    word: trident
+    remark: '🔱 trident emblem'
+  -
+    word: beginner
+    remark: '🔰 Japanese symbol for beginner'
+  -
+    word: loop
+    remark: '➿ double curly loop'
+  -
+    word: sparkle
+    remark: '❇️ sparkle'
+  -
+    word: bangbang
+    remark: '‼️ double exclamation mark'
+  -
+    word: interrobang
+    remark: '⁉️ exclamation question mark'
+  -
+    word: question
+    remark: '❓ question mark'
+  -
+    word: copyright
+    remark: '©️ copyright'
+  -
+    word: registered
+    remark: '®️ registered'
+  -
+    word: hash
+    remark: '#️⃣ keycap: #'
+  -
+    word: asterisk
+    remark: '*️⃣ keycap: *'
+  -
+    word: zero
+    remark: '0️⃣ keycap: 0'
+  -
+    word: one
+    remark: '1️⃣ keycap: 1'
+  -
+    word: two
+    remark: '2️⃣ keycap: 2'
+  -
+    word: three
+    remark: '3️⃣ keycap: 3'
+  -
+    word: four
+    remark: '4️⃣ keycap: 4'
+  -
+    word: five
+    remark: '5️⃣ keycap: 5'
+  -
+    word: six
+    remark: '6️⃣ keycap: 6'
+  -
+    word: seven
+    remark: '7️⃣ keycap: 7'
+  -
+    word: eight
+    remark: '8️⃣ keycap: 8'
+  -
+    word: nine
+    remark: '9️⃣ keycap: 9'
+  -
+    word: abcd
+    remark: '🔡 input latin lowercase'
+  -
+    word: symbols
+    remark: '🔣 input symbols'
+  -
+    word: abc
+    remark: '🔤 input latin letters'
+  -
+    word: cool
+    remark: '🆒 COOL button'
+  -
+    word: free
+    remark: '🆓 FREE button'
+  -
+    word: new
+    remark: '🆕 NEW button'
+  -
+    word: parking
+    remark: '🅿️ P button'
+  -
+    word: sos
+    remark: '🆘 SOS button'
+  -
+    word: koko
+    remark: '🈁 Japanese “here” button'
+  -
+    word: accept
+    remark: '🉑 Japanese “acceptable” button'
+  -
+    word: congratulations
+    remark: '㊗️ Japanese “congratulations” button'
+  -
+    word: secret
+    remark: '㊙️ Japanese “secret” button'

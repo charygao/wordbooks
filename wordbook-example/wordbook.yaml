@@ -1,0 +1,19 @@
+wordway: 1.0.0
+info:
+  slug: example
+  title: '示例'
+  summary: '一个单词本示例'
+  tags:
+    - wordway
+    - example
+  visibility: public
+  difficulty_level: D1
+  repository_type: git
+  repository_url: https://github.com/wordway/wordbook-example
+  author: 痕迹
+  author_email: lijy91@foxmail.com
+words:
+  -
+    word: hello
+  -
+    word: world

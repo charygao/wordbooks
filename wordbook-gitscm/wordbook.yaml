@@ -1,0 +1,47 @@
+wordway: 1.0.0
+info:
+  slug: gitscm
+  title: Git 常用词汇
+  summary: ""
+  tags:
+    - git
+  visibility: public
+  difficulty_level: D1
+  repository_type: git
+  repository_url: https://github.com/wordway/wordbook-gitscm
+  author: 痕迹
+  author_email: lijy91@foxmail.com
+words:
+  - word: git
+    remark: 一个分布式版本控制软件，最初由林纳斯·托瓦兹创作，于2005年以GPL发布。
+  - word: config
+  - word: help
+  - word: init
+  - word: clone
+  - word: add
+  - word: status
+  - word: diff
+  - word: commit
+  - word: reset
+  - word: branch
+  - word: checkout
+  - word: merge
+  - word: log
+  - word: stash
+  - word: tag
+  - word: fetch
+  - word: pull
+  - word: push
+  - word: remote
+  - word: submodule
+  - word: show
+  - word: describe
+  - word: patching
+  - word: apply
+  - word: cherry-pick
+  - word: rebase
+  - word: revert
+  - word: bisect
+  - word: blame
+  - word: grep
+  - word: repository

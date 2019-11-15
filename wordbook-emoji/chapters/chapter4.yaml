@@ -1,0 +1,249 @@
+slug: chapter4
+title: 'Food & Drink'
+words:
+  -
+    word: grapes
+    remark: '🍇 grapes'
+  -
+    word: melon
+    remark: '🍈 melon'
+  -
+    word: watermelon
+    remark: '🍉 watermelon'
+  -
+    word: lemon
+    remark: '🍋 lemon'
+  -
+    word: banana
+    remark: '🍌 banana'
+  -
+    word: pineapple
+    remark: '🍍 pineapple'
+  -
+    word: mango
+    remark: '🥭 mango'
+  -
+    word: apple
+    remark: '🍎 red apple'
+  -
+    word: pear
+    remark: '🍐 pear'
+  -
+    word: peach
+    remark: '🍑 peach'
+  -
+    word: cherries
+    remark: '🍒 cherries'
+  -
+    word: strawberry
+    remark: '🍓 strawberry'
+  -
+    word: tomato
+    remark: '🍅 tomato'
+  -
+    word: coconut
+    remark: '🥥 coconut'
+  -
+    word: avocado
+    remark: '🥑 avocado'
+  -
+    word: eggplant
+    remark: '🍆 eggplant'
+  -
+    word: potato
+    remark: '🥔 potato'
+  -
+    word: carrot
+    remark: '🥕 carrot'
+  -
+    word: corn
+    remark: '🌽 ear of corn'
+  -
+    word: cucumber
+    remark: '🥒 cucumber'
+  -
+    word: broccoli
+    remark: '🥦 broccoli'
+  -
+    word: garlic
+    remark: '🧄 garlic'
+  -
+    word: onion
+    remark: '🧅 onion'
+  -
+    word: mushroom
+    remark: '🍄 mushroom'
+  -
+    word: peanuts
+    remark: '🥜 peanuts'
+  -
+    word: chestnut
+    remark: '🌰 chestnut'
+  -
+    word: bread
+    remark: '🍞 bread'
+  -
+    word: croissant
+    remark: '🥐 croissant'
+  -
+    word: pretzel
+    remark: '🥨 pretzel'
+  -
+    word: bagel
+    remark: '🥯 bagel'
+  -
+    word: pancakes
+    remark: '🥞 pancakes'
+  -
+    word: waffle
+    remark: '🧇 waffle'
+  -
+    word: cheese
+    remark: '🧀 cheese wedge'
+  -
+    word: bacon
+    remark: '🥓 bacon'
+  -
+    word: hamburger
+    remark: '🍔 hamburger'
+  -
+    word: fries
+    remark: '🍟 french fries'
+  -
+    word: pizza
+    remark: '🍕 pizza'
+  -
+    word: hotdog
+    remark: '🌭 hot dog'
+  -
+    word: sandwich
+    remark: '🥪 sandwich'
+  -
+    word: taco
+    remark: '🌮 taco'
+  -
+    word: burrito
+    remark: '🌯 burrito'
+  -
+    word: falafel
+    remark: '🧆 falafel'
+  -
+    word: egg
+    remark: '🥚 egg'
+  -
+    word: stew
+    remark: '🍲 pot of food'
+  -
+    word: popcorn
+    remark: '🍿 popcorn'
+  -
+    word: butter
+    remark: '🧈 butter'
+  -
+    word: salt
+    remark: '🧂 salt'
+  -
+    word: bento
+    remark: '🍱 bento box'
+  -
+    word: rice
+    remark: '🍚 cooked rice'
+  -
+    word: curry
+    remark: '🍛 curry rice'
+  -
+    word: ramen
+    remark: '🍜 steaming bowl'
+  -
+    word: spaghetti
+    remark: '🍝 spaghetti'
+  -
+    word: oden
+    remark: '🍢 oden'
+  -
+    word: sushi
+    remark: '🍣 sushi'
+  -
+    word: dango
+    remark: '🍡 dango'
+  -
+    word: dumpling
+    remark: '🥟 dumpling'
+  -
+    word: crab
+    remark: '🦀 crab'
+  -
+    word: lobster
+    remark: '🦞 lobster'
+  -
+    word: shrimp
+    remark: '🦐 shrimp'
+  -
+    word: squid
+    remark: '🦑 squid'
+  -
+    word: oyster
+    remark: '🦪 oyster'
+  -
+    word: icecream
+    remark: '🍦 soft ice cream'
+  -
+    word: doughnut
+    remark: '🍩 doughnut'
+  -
+    word: cookie
+    remark: '🍪 cookie'
+  -
+    word: birthday
+    remark: '🎂 birthday cake'
+  -
+    word: cake
+    remark: '🍰 shortcake'
+  -
+    word: cupcake
+    remark: '🧁 cupcake'
+  -
+    word: pie
+    remark: '🥧 pie'
+  -
+    word: candy
+    remark: '🍬 candy'
+  -
+    word: lollipop
+    remark: '🍭 lollipop'
+  -
+    word: custard
+    remark: '🍮 custard'
+  -
+    word: coffee
+    remark: '☕ hot beverage'
+  -
+    word: tea
+    remark: '🍵 teacup without handle'
+  -
+    word: sake
+    remark: '🍶 sake'
+  -
+    word: champagne
+    remark: '🍾 bottle with popping cork'
+  -
+    word: cocktail
+    remark: '🍸 cocktail glass'
+  -
+    word: beer
+    remark: '🍺 beer mug'
+  -
+    word: beers
+    remark: '🍻 clinking beer mugs'
+  -
+    word: mate
+    remark: '🧉 mate'
+  -
+    word: chopsticks
+    remark: '🥢 chopsticks'
+  -
+    word: spoon
+    remark: '🥄 spoon'
+  -
+    word: amphora
+    remark: '🏺 amphora'

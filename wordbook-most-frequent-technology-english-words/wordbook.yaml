@@ -1,0 +1,135 @@
+wordway: 1.0.0
+info:
+  slug: most-frequent-technology-english-words
+  title: 程序员工作中常见的英语词汇
+  summary: ""
+  tags:
+    - wordway
+  visibility: public
+  difficulty_level: D3
+  repository_type: git
+  repository_url: https://github.com/wordway/wordbook-most-frequent-technology-english-words
+  author: "Wei-Xia"
+  author_email: "hi@weixia.dev"
+  author_link: "https://github.com/Wei-Xia/most-frequent-technology-english-words"
+words:
+  - word: aggregate
+  - word: aggregation
+  - word: agile
+  - word: analyze
+  - word: arbitrary
+  - word: architecture
+  - word: asynchronous
+  - word: authentication
+  - word: authorization
+  - word: automation
+  - word: capacity
+  - word: capture
+  - word: caveats
+  - word: complexity
+  - word: compliance
+  - word: comprehensive
+  - word: compromise
+  - word: concatenate
+  - word: concrete
+  - word: concurrent
+  - word: confidentiality
+  - word: constant
+  - word: consumption
+  - word: contrast
+  - word: customizable
+  - word: dedicated
+  - word: degradation
+  - word: delivery
+  - word: deprecated
+  - word: differentiate
+  - word: distinction
+  - word: durability
+  - word: efficiency
+  - word: elastic
+  - word: embrace
+  - word: encapsulate
+  - word: encryption
+  - word: ephemeral
+  - word: escalate
+  - word: evaluation
+  - word: evolution
+  - word: expenditure
+  - word: explicit
+  - word: failover
+  - word: federation
+  - word: furthermore
+  - word: granular
+  - word: hierarchical
+  - word: hypervisor
+  - word: impact
+  - word: impression
+  - word: incident
+  - word: inexplicit
+  - word: infrastructure
+  - word: initiatives
+  - word: integration
+  - word: integrity
+  - word: interaction
+  - word: intervention
+  - word: intrusive
+  - word: intuitive
+  - word: latency
+  - word: leverage
+  - word: "magnetic storage"
+  - word: malware
+  - word: manually
+  - word: marry
+  - word: mature
+  - word: mechanism
+  - word: metrics
+  - word: miscellaneous
+  - word: model
+  - word: module
+  - word: notation
+  - word: occasion
+  - word: optimization
+  - word: optimize
+  - word: overhead
+  - word: oversight
+  - word: permanent
+  - word: polyfill
+  - word: populate
+  - word: priority
+  - word: privilege
+  - word: protocol
+  - word: provision
+  - word: rapid
+  - word: redundancy
+  - word: reliability
+  - word: resilience
+  - word: resilient
+  - word: retain
+  - word: retrospective
+  - word: robust
+  - word: roll off
+  - word: scalability
+  - word: scenarios
+  - word: scope
+  - word: seamless
+  - word: significant
+  - word: simultaneously
+  - word: sophisticated
+  - word: standalone
+  - word: streamline
+  - word: strengths
+  - word: stroke
+  - word: subsidiary
+  - word: sustainable
+  - word: synchronous
+  - word: takeaway
+  - word: threshold
+  - word: thrilled
+  - word: throughput
+  - word: tolerance
+  - word: traceability
+  - word: tweak
+  - word: undertake
+  - word: utilization
+  - word: weaknesses
+  - word: workaround

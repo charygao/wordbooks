@@ -1,0 +1,44 @@
+wordway: 1.0.0
+info:
+  slug: vue
+  title: "Vue 常用词汇"
+  summary: ""
+  tags:
+    - wordway
+    - vue
+  visibility: public
+  difficulty_level: D1
+  repository_type: git
+  repository_url: https://github.com/wordway/wordbook-vue
+  author: 痕迹
+  author_email: lijy91@foxmail.com
+words:
+  - custom: true
+    word: vue
+    remark: Vue 是一套用于构建用户界面的渐进式框架
+    us_ipa: vjuː
+    us_pronunciation_url: assets/en-us-vue.mp3
+  - word: extend
+  - word: tick
+  - word: directive
+  - word: filter
+  - word: component
+  - word: use
+  # - word: mixin
+  - word: compile
+  - word: observable
+  - word: props
+  - word: computed
+  - word: method
+  - word: watch
+  - word: element
+  - word: template
+  - word: render
+  - word: mounted
+  - word: updated
+  - word: activated
+  - word: deactivated
+  - word: destroyed
+  - word: captured
+
+

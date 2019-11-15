@@ -1,0 +1,522 @@
+slug: chapter9
+title: Flags
+words:
+  -
+    word: andorra
+    remark: '🇦🇩 flag: Andorra'
+  -
+    word: afghanistan
+    remark: '🇦🇫 flag: Afghanistan'
+  -
+    word: anguilla
+    remark: '🇦🇮 flag: Anguilla'
+  -
+    word: albania
+    remark: '🇦🇱 flag: Albania'
+  -
+    word: armenia
+    remark: '🇦🇲 flag: Armenia'
+  -
+    word: angola
+    remark: '🇦🇴 flag: Angola'
+  -
+    word: antarctica
+    remark: '🇦🇶 flag: Antarctica'
+  -
+    word: argentina
+    remark: '🇦🇷 flag: Argentina'
+  -
+    word: austria
+    remark: '🇦🇹 flag: Austria'
+  -
+    word: australia
+    remark: '🇦🇺 flag: Australia'
+  -
+    word: aruba
+    remark: '🇦🇼 flag: Aruba'
+  -
+    word: azerbaijan
+    remark: '🇦🇿 flag: Azerbaijan'
+  -
+    word: barbados
+    remark: '🇧🇧 flag: Barbados'
+  -
+    word: bangladesh
+    remark: '🇧🇩 flag: Bangladesh'
+  -
+    word: belgium
+    remark: '🇧🇪 flag: Belgium'
+  -
+    word: bulgaria
+    remark: '🇧🇬 flag: Bulgaria'
+  -
+    word: bahrain
+    remark: '🇧🇭 flag: Bahrain'
+  -
+    word: burundi
+    remark: '🇧🇮 flag: Burundi'
+  -
+    word: benin
+    remark: '🇧🇯 flag: Benin'
+  -
+    word: bermuda
+    remark: '🇧🇲 flag: Bermuda'
+  -
+    word: brunei
+    remark: '🇧🇳 flag: Brunei'
+  -
+    word: bolivia
+    remark: '🇧🇴 flag: Bolivia'
+  -
+    word: brazil
+    remark: '🇧🇷 flag: Brazil'
+  -
+    word: bahamas
+    remark: '🇧🇸 flag: Bahamas'
+  -
+    word: bhutan
+    remark: '🇧🇹 flag: Bhutan'
+  -
+    word: botswana
+    remark: '🇧🇼 flag: Botswana'
+  -
+    word: belarus
+    remark: '🇧🇾 flag: Belarus'
+  -
+    word: belize
+    remark: '🇧🇿 flag: Belize'
+  -
+    word: canada
+    remark: '🇨🇦 flag: Canada'
+  -
+    word: switzerland
+    remark: '🇨🇭 flag: Switzerland'
+  -
+    word: chile
+    remark: '🇨🇱 flag: Chile'
+  -
+    word: cameroon
+    remark: '🇨🇲 flag: Cameroon'
+  -
+    word: colombia
+    remark: '🇨🇴 flag: Colombia'
+  -
+    word: cuba
+    remark: '🇨🇺 flag: Cuba'
+  -
+    word: curacao
+    remark: '🇨🇼 flag: Curaçao'
+  -
+    word: cyprus
+    remark: '🇨🇾 flag: Cyprus'
+  -
+    word: djibouti
+    remark: '🇩🇯 flag: Djibouti'
+  -
+    word: denmark
+    remark: '🇩🇰 flag: Denmark'
+  -
+    word: dominica
+    remark: '🇩🇲 flag: Dominica'
+  -
+    word: algeria
+    remark: '🇩🇿 flag: Algeria'
+  -
+    word: ecuador
+    remark: '🇪🇨 flag: Ecuador'
+  -
+    word: estonia
+    remark: '🇪🇪 flag: Estonia'
+  -
+    word: egypt
+    remark: '🇪🇬 flag: Egypt'
+  -
+    word: eritrea
+    remark: '🇪🇷 flag: Eritrea'
+  -
+    word: ethiopia
+    remark: '🇪🇹 flag: Ethiopia'
+  -
+    word: finland
+    remark: '🇫🇮 flag: Finland'
+  -
+    word: fiji
+    remark: '🇫🇯 flag: Fiji'
+  -
+    word: micronesia
+    remark: '🇫🇲 flag: Micronesia'
+  -
+    word: gabon
+    remark: '🇬🇦 flag: Gabon'
+  -
+    word: grenada
+    remark: '🇬🇩 flag: Grenada'
+  -
+    word: georgia
+    remark: '🇬🇪 flag: Georgia'
+  -
+    word: guernsey
+    remark: '🇬🇬 flag: Guernsey'
+  -
+    word: ghana
+    remark: '🇬🇭 flag: Ghana'
+  -
+    word: gibraltar
+    remark: '🇬🇮 flag: Gibraltar'
+  -
+    word: greenland
+    remark: '🇬🇱 flag: Greenland'
+  -
+    word: gambia
+    remark: '🇬🇲 flag: Gambia'
+  -
+    word: guinea
+    remark: '🇬🇳 flag: Guinea'
+  -
+    word: guadeloupe
+    remark: '🇬🇵 flag: Guadeloupe'
+  -
+    word: greece
+    remark: '🇬🇷 flag: Greece'
+  -
+    word: guatemala
+    remark: '🇬🇹 flag: Guatemala'
+  -
+    word: guam
+    remark: '🇬🇺 flag: Guam'
+  -
+    word: guyana
+    remark: '🇬🇾 flag: Guyana'
+  -
+    word: honduras
+    remark: '🇭🇳 flag: Honduras'
+  -
+    word: croatia
+    remark: '🇭🇷 flag: Croatia'
+  -
+    word: haiti
+    remark: '🇭🇹 flag: Haiti'
+  -
+    word: hungary
+    remark: '🇭🇺 flag: Hungary'
+  -
+    word: indonesia
+    remark: '🇮🇩 flag: Indonesia'
+  -
+    word: ireland
+    remark: '🇮🇪 flag: Ireland'
+  -
+    word: israel
+    remark: '🇮🇱 flag: Israel'
+  -
+    word: india
+    remark: '🇮🇳 flag: India'
+  -
+    word: iraq
+    remark: '🇮🇶 flag: Iraq'
+  -
+    word: iran
+    remark: '🇮🇷 flag: Iran'
+  -
+    word: iceland
+    remark: '🇮🇸 flag: Iceland'
+  -
+    word: jersey
+    remark: '🇯🇪 flag: Jersey'
+  -
+    word: jamaica
+    remark: '🇯🇲 flag: Jamaica'
+  -
+    word: jordan
+    remark: '🇯🇴 flag: Jordan'
+  -
+    word: kenya
+    remark: '🇰🇪 flag: Kenya'
+  -
+    word: kyrgyzstan
+    remark: '🇰🇬 flag: Kyrgyzstan'
+  -
+    word: cambodia
+    remark: '🇰🇭 flag: Cambodia'
+  -
+    word: kiribati
+    remark: '🇰🇮 flag: Kiribati'
+  -
+    word: comoros
+    remark: '🇰🇲 flag: Comoros'
+  -
+    word: kuwait
+    remark: '🇰🇼 flag: Kuwait'
+  -
+    word: kazakhstan
+    remark: '🇰🇿 flag: Kazakhstan'
+  -
+    word: laos
+    remark: '🇱🇦 flag: Laos'
+  -
+    word: lebanon
+    remark: '🇱🇧 flag: Lebanon'
+  -
+    word: liechtenstein
+    remark: '🇱🇮 flag: Liechtenstein'
+  -
+    word: liberia
+    remark: '🇱🇷 flag: Liberia'
+  -
+    word: lesotho
+    remark: '🇱🇸 flag: Lesotho'
+  -
+    word: lithuania
+    remark: '🇱🇹 flag: Lithuania'
+  -
+    word: luxembourg
+    remark: '🇱🇺 flag: Luxembourg'
+  -
+    word: latvia
+    remark: '🇱🇻 flag: Latvia'
+  -
+    word: libya
+    remark: '🇱🇾 flag: Libya'
+  -
+    word: morocco
+    remark: '🇲🇦 flag: Morocco'
+  -
+    word: monaco
+    remark: '🇲🇨 flag: Monaco'
+  -
+    word: moldova
+    remark: '🇲🇩 flag: Moldova'
+  -
+    word: montenegro
+    remark: '🇲🇪 flag: Montenegro'
+  -
+    word: madagascar
+    remark: '🇲🇬 flag: Madagascar'
+  -
+    word: macedonia
+    remark: '🇲🇰 flag: Macedonia'
+  -
+    word: mali
+    remark: '🇲🇱 flag: Mali'
+  -
+    word: myanmar
+    remark: '🇲🇲 flag: Myanmar (Burma)'
+  -
+    word: mongolia
+    remark: '🇲🇳 flag: Mongolia'
+  -
+    word: macau
+    remark: '🇲🇴 flag: Macao SAR China'
+  -
+    word: martinique
+    remark: '🇲🇶 flag: Martinique'
+  -
+    word: mauritania
+    remark: '🇲🇷 flag: Mauritania'
+  -
+    word: montserrat
+    remark: '🇲🇸 flag: Montserrat'
+  -
+    word: malta
+    remark: '🇲🇹 flag: Malta'
+  -
+    word: mauritius
+    remark: '🇲🇺 flag: Mauritius'
+  -
+    word: maldives
+    remark: '🇲🇻 flag: Maldives'
+  -
+    word: malawi
+    remark: '🇲🇼 flag: Malawi'
+  -
+    word: mexico
+    remark: '🇲🇽 flag: Mexico'
+  -
+    word: malaysia
+    remark: '🇲🇾 flag: Malaysia'
+  -
+    word: mozambique
+    remark: '🇲🇿 flag: Mozambique'
+  -
+    word: namibia
+    remark: '🇳🇦 flag: Namibia'
+  -
+    word: niger
+    remark: '🇳🇪 flag: Niger'
+  -
+    word: nigeria
+    remark: '🇳🇬 flag: Nigeria'
+  -
+    word: nicaragua
+    remark: '🇳🇮 flag: Nicaragua'
+  -
+    word: netherlands
+    remark: '🇳🇱 flag: Netherlands'
+  -
+    word: norway
+    remark: '🇳🇴 flag: Norway'
+  -
+    word: nepal
+    remark: '🇳🇵 flag: Nepal'
+  -
+    word: nauru
+    remark: '🇳🇷 flag: Nauru'
+  -
+    word: niue
+    remark: '🇳🇺 flag: Niue'
+  -
+    word: oman
+    remark: '🇴🇲 flag: Oman'
+  -
+    word: panama
+    remark: '🇵🇦 flag: Panama'
+  -
+    word: peru
+    remark: '🇵🇪 flag: Peru'
+  -
+    word: philippines
+    remark: '🇵🇭 flag: Philippines'
+  -
+    word: pakistan
+    remark: '🇵🇰 flag: Pakistan'
+  -
+    word: poland
+    remark: '🇵🇱 flag: Poland'
+  -
+    word: portugal
+    remark: '🇵🇹 flag: Portugal'
+  -
+    word: palau
+    remark: '🇵🇼 flag: Palau'
+  -
+    word: paraguay
+    remark: '🇵🇾 flag: Paraguay'
+  -
+    word: qatar
+    remark: '🇶🇦 flag: Qatar'
+  -
+    word: reunion
+    remark: '🇷🇪 flag: Réunion'
+  -
+    word: romania
+    remark: '🇷🇴 flag: Romania'
+  -
+    word: serbia
+    remark: '🇷🇸 flag: Serbia'
+  -
+    word: rwanda
+    remark: '🇷🇼 flag: Rwanda'
+  -
+    word: seychelles
+    remark: '🇸🇨 flag: Seychelles'
+  -
+    word: sudan
+    remark: '🇸🇩 flag: Sudan'
+  -
+    word: sweden
+    remark: '🇸🇪 flag: Sweden'
+  -
+    word: singapore
+    remark: '🇸🇬 flag: Singapore'
+  -
+    word: slovenia
+    remark: '🇸🇮 flag: Slovenia'
+  -
+    word: slovakia
+    remark: '🇸🇰 flag: Slovakia'
+  -
+    word: senegal
+    remark: '🇸🇳 flag: Senegal'
+  -
+    word: somalia
+    remark: '🇸🇴 flag: Somalia'
+  -
+    word: suriname
+    remark: '🇸🇷 flag: Suriname'
+  -
+    word: syria
+    remark: '🇸🇾 flag: Syria'
+  -
+    word: swaziland
+    remark: '🇸🇿 flag: Eswatini'
+  -
+    word: chad
+    remark: '🇹🇩 flag: Chad'
+  -
+    word: togo
+    remark: '🇹🇬 flag: Togo'
+  -
+    word: thailand
+    remark: '🇹🇭 flag: Thailand'
+  -
+    word: tajikistan
+    remark: '🇹🇯 flag: Tajikistan'
+  -
+    word: tokelau
+    remark: '🇹🇰 flag: Tokelau'
+  -
+    word: turkmenistan
+    remark: '🇹🇲 flag: Turkmenistan'
+  -
+    word: tunisia
+    remark: '🇹🇳 flag: Tunisia'
+  -
+    word: tonga
+    remark: '🇹🇴 flag: Tonga'
+  -
+    word: tuvalu
+    remark: '🇹🇻 flag: Tuvalu'
+  -
+    word: taiwan
+    remark: '🇹🇼 flag: Taiwan'
+  -
+    word: tanzania
+    remark: '🇹🇿 flag: Tanzania'
+  -
+    word: ukraine
+    remark: '🇺🇦 flag: Ukraine'
+  -
+    word: uganda
+    remark: '🇺🇬 flag: Uganda'
+  -
+    word: uruguay
+    remark: '🇺🇾 flag: Uruguay'
+  -
+    word: uzbekistan
+    remark: '🇺🇿 flag: Uzbekistan'
+  -
+    word: venezuela
+    remark: '🇻🇪 flag: Venezuela'
+  -
+    word: vietnam
+    remark: '🇻🇳 flag: Vietnam'
+  -
+    word: vanuatu
+    remark: '🇻🇺 flag: Vanuatu'
+  -
+    word: samoa
+    remark: '🇼🇸 flag: Samoa'
+  -
+    word: kosovo
+    remark: '🇽🇰 flag: Kosovo'
+  -
+    word: yemen
+    remark: '🇾🇪 flag: Yemen'
+  -
+    word: mayotte
+    remark: '🇾🇹 flag: Mayotte'
+  -
+    word: zambia
+    remark: '🇿🇲 flag: Zambia'
+  -
+    word: zimbabwe
+    remark: '🇿🇼 flag: Zimbabwe'
+  -
+    word: england
+    remark: '🏴󠁧󠁢󠁥󠁮󠁧󠁿 flag: England'
+  -
+    word: scotland
+    remark: '🏴󠁧󠁢󠁳󠁣󠁴󠁿 flag: Scotland'
+  -
+    word: wales
+    remark: '🏴󠁧󠁢󠁷󠁬󠁳󠁿 flag: Wales'

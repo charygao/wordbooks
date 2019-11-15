@@ -1,0 +1,52 @@
+wordway: 1.0.0
+info:
+  slug: ruby
+  title: "Ruby 常用词汇"
+  summary: ""
+  tags:
+    - wordway
+    - example
+  visibility: private
+  difficulty_level: D1
+  repository_type: git
+  repository_url: https://github.com/wordway/wordbook-ruby
+  author: 痕迹
+  author_email: lijy91@foxmail.com
+words:
+  - word: ruby
+  # - word: alias
+  # - word: and
+  # - word: begin
+  # - word: break
+  # - word: case
+  # - word: class
+  # - word: def
+  # - word: defined?
+  # - word: do
+  # - word: else
+  # - word: elsif
+  # - word: end
+  # - word: ensure
+  # - word: "false"
+  # - word: for
+  # - word: if
+  # - word: in
+  # - word: module
+  # - word: next
+  # - word: nil
+  # - word: not
+  # - word: or
+  # - word: redo
+  # - word: rescue
+  # - word: retry
+  # - word: return
+  # - word: self
+  # - word: super
+  # - word: then
+  # - word: "true"
+  # - word: undef
+  # - word: unless
+  # - word: until
+  # - word: when
+  # - word: while
+  # - word: yield

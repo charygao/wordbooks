@@ -1,0 +1,15 @@
+wordway: 1.0.0
+info:
+  slug: basic-english
+  title: 基本英语
+  summary: ""
+  tags:
+    - wordway
+    - basic
+  visibility: public
+  difficulty_level: D1
+  repository_type: "git"
+  repository_url: "https://github.com/wordway/wordbook-basic-english"
+  author: "查尔斯·凯·奥格登"
+  author_email: ""
+  author_link: "https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%9C%AC%E8%8B%B1%E8%AF%AD"

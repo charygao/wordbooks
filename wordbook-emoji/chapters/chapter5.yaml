@@ -1,0 +1,237 @@
+slug: chapter5
+title: 'Travel & Places'
+words:
+  -
+    word: japan
+    remark: '🗾 map of Japan'
+  -
+    word: compass
+    remark: '🧭 compass'
+  -
+    word: mountain
+    remark: '⛰ mountain'
+  -
+    word: volcano
+    remark: '🌋 volcano'
+  -
+    word: camping
+    remark: '🏕 camping'
+  -
+    word: desert
+    remark: '🏜 desert'
+  -
+    word: stadium
+    remark: '🏟 stadium'
+  -
+    word: bricks
+    remark: '🧱 brick'
+  -
+    word: houses
+    remark: '🏘 houses'
+  -
+    word: house
+    remark: '🏠 house'
+  -
+    word: office
+    remark: '🏢 office building'
+  -
+    word: hospital
+    remark: '🏥 hospital'
+  -
+    word: bank
+    remark: '🏦 bank'
+  -
+    word: hotel
+    remark: '🏨 hotel'
+  -
+    word: school
+    remark: '🏫 school'
+  -
+    word: factory
+    remark: '🏭 factory'
+  -
+    word: wedding
+    remark: '💒 wedding'
+  -
+    word: church
+    remark: '⛪ church'
+  -
+    word: mosque
+    remark: '🕌 mosque'
+  -
+    word: synagogue
+    remark: '🕍 synagogue'
+  -
+    word: kaaba
+    remark: '🕋 kaaba'
+  -
+    word: fountain
+    remark: '⛲ fountain'
+  -
+    word: tent
+    remark: '⛺ tent'
+  -
+    word: foggy
+    remark: '🌁 foggy'
+  -
+    word: cityscape
+    remark: '🏙 cityscape'
+  -
+    word: sunrise
+    remark: '🌅 sunrise'
+  -
+    word: hotsprings
+    remark: '♨️ hot springs'
+  -
+    word: barber
+    remark: '💈 barber pole'
+  -
+    word: metro
+    remark: '🚇 metro'
+  -
+    word: station
+    remark: '🚉 station'
+  -
+    word: tram
+    remark: '🚊 tram'
+  -
+    word: monorail
+    remark: '🚝 monorail'
+  -
+    word: train
+    remark: '🚋 tram car'
+  -
+    word: bus
+    remark: '🚌 bus'
+  -
+    word: trolleybus
+    remark: '🚎 trolleybus'
+  -
+    word: minibus
+    remark: '🚐 minibus'
+  -
+    word: ambulance
+    remark: '🚑 ambulance'
+  -
+    word: taxi
+    remark: '🚕 taxi'
+  -
+    word: truck
+    remark: '🚚 delivery truck'
+  -
+    word: tractor
+    remark: '🚜 tractor'
+  -
+    word: motorcycle
+    remark: '🏍 motorcycle'
+  -
+    word: bike
+    remark: '🚲 bicycle'
+  -
+    word: skateboard
+    remark: '🛹 skateboard'
+  -
+    word: busstop
+    remark: '🚏 bus stop'
+  -
+    word: motorway
+    remark: '🛣 motorway'
+  -
+    word: fuelpump
+    remark: '⛽ fuel pump'
+  -
+    word: construction
+    remark: '🚧 construction'
+  -
+    word: anchor
+    remark: '⚓ anchor'
+  -
+    word: canoe
+    remark: '🛶 canoe'
+  -
+    word: speedboat
+    remark: '🚤 speedboat'
+  -
+    word: ferry
+    remark: '⛴ ferry'
+  -
+    word: ship
+    remark: '🚢 ship'
+  -
+    word: airplane
+    remark: '✈️ airplane'
+  -
+    word: parachute
+    remark: '🪂 parachute'
+  -
+    word: seat
+    remark: '💺 seat'
+  -
+    word: helicopter
+    remark: '🚁 helicopter'
+  -
+    word: rocket
+    remark: '🚀 rocket'
+  -
+    word: luggage
+    remark: '🧳 luggage'
+  -
+    word: hourglass
+    remark: '⌛ hourglass done'
+  -
+    word: watch
+    remark: '⌚ watch'
+  -
+    word: stopwatch
+    remark: '⏱ stopwatch'
+  -
+    word: thermometer
+    remark: '🌡 thermometer'
+  -
+    word: sunny
+    remark: '☀️ sun'
+  -
+    word: star
+    remark: '⭐ star'
+  -
+    word: stars
+    remark: '🌠 shooting star'
+  -
+    word: cloud
+    remark: '☁️ cloud'
+  -
+    word: tornado
+    remark: '🌪 tornado'
+  -
+    word: fog
+    remark: '🌫 fog'
+  -
+    word: cyclone
+    remark: '🌀 cyclone'
+  -
+    word: rainbow
+    remark: '🌈 rainbow'
+  -
+    word: umbrella
+    remark: '☔ umbrella with rain drops'
+  -
+    word: zap
+    remark: '⚡ high voltage'
+  -
+    word: snowflake
+    remark: '❄️ snowflake'
+  -
+    word: snowman
+    remark: '⛄ snowman without snow'
+  -
+    word: comet
+    remark: '☄ comet'
+  -
+    word: fire
+    remark: '🔥 fire'
+  -
+    word: droplet
+    remark: '💧 droplet'
+  -
+    word: ocean
+    remark: '🌊 water wave'

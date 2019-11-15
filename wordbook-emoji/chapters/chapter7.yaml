@@ -1,0 +1,384 @@
+slug: chapter7
+title: Objects
+words:
+  -
+    word: eyeglasses
+    remark: '👓 glasses'
+  -
+    word: goggles
+    remark: '🥽 goggles'
+  -
+    word: necktie
+    remark: '👔 necktie'
+  -
+    word: jeans
+    remark: '👖 jeans'
+  -
+    word: scarf
+    remark: '🧣 scarf'
+  -
+    word: gloves
+    remark: '🧤 gloves'
+  -
+    word: coat
+    remark: '🧥 coat'
+  -
+    word: socks
+    remark: '🧦 socks'
+  -
+    word: dress
+    remark: '👗 dress'
+  -
+    word: kimono
+    remark: '👘 kimono'
+  -
+    word: sari
+    remark: '🥻 sari'
+  -
+    word: shorts
+    remark: '🩳 shorts'
+  -
+    word: bikini
+    remark: '👙 bikini'
+  -
+    word: purse
+    remark: '👛 purse'
+  -
+    word: handbag
+    remark: '👜 handbag'
+  -
+    word: pouch
+    remark: '👝 clutch bag'
+  -
+    word: shopping
+    remark: '🛍 shopping bags'
+  -
+    word: sandal
+    remark: '👡 woman’s sandal'
+  -
+    word: boot
+    remark: '👢 woman’s boot'
+  -
+    word: crown
+    remark: '👑 crown'
+  -
+    word: tophat
+    remark: '🎩 top hat'
+  -
+    word: lipstick
+    remark: '💄 lipstick'
+  -
+    word: ring
+    remark: '💍 ring'
+  -
+    word: gem
+    remark: '💎 gem stone'
+  -
+    word: mute
+    remark: '🔇 muted speaker'
+  -
+    word: speaker
+    remark: '🔈 speaker low volume'
+  -
+    word: sound
+    remark: '🔉 speaker medium volume'
+  -
+    word: loudspeaker
+    remark: '📢 loudspeaker'
+  -
+    word: mega
+    remark: '📣 megaphone'
+  -
+    word: bell
+    remark: '🔔 bell'
+  -
+    word: notes
+    remark: '🎶 musical notes'
+  -
+    word: microphone
+    remark: '🎤 microphone'
+  -
+    word: headphones
+    remark: '🎧 headphone'
+  -
+    word: radio
+    remark: '📻 radio'
+  -
+    word: saxophone
+    remark: '🎷 saxophone'
+  -
+    word: guitar
+    remark: '🎸 guitar'
+  -
+    word: trumpet
+    remark: '🎺 trumpet'
+  -
+    word: violin
+    remark: '🎻 violin'
+  -
+    word: banjo
+    remark: '🪕 banjo'
+  -
+    word: drum
+    remark: '🥁 drum'
+  -
+    word: iphone
+    remark: '📱 mobile phone'
+  -
+    word: calling
+    remark: '📲 mobile phone with arrow'
+  -
+    word: pager
+    remark: '📟 pager'
+  -
+    word: fax
+    remark: '📠 fax machine'
+  -
+    word: battery
+    remark: '🔋 battery'
+  -
+    word: computer
+    remark: '💻 laptop computer'
+  -
+    word: printer
+    remark: '🖨 printer'
+  -
+    word: keyboard
+    remark: '⌨ keyboard'
+  -
+    word: trackball
+    remark: '🖲 trackball'
+  -
+    word: minidisc
+    remark: '💽 computer disk'
+  -
+    word: dvd
+    remark: '📀 dvd'
+  -
+    word: abacus
+    remark: '🧮 abacus'
+  -
+    word: clapper
+    remark: '🎬 clapper board'
+  -
+    word: camera
+    remark: '📷 camera'
+  -
+    word: vhs
+    remark: '📼 videocassette'
+  -
+    word: mag
+    remark: '🔍 magnifying glass tilted left'
+  -
+    word: candle
+    remark: '🕯 candle'
+  -
+    word: bulb
+    remark: '💡 light bulb'
+  -
+    word: flashlight
+    remark: '🔦 flashlight'
+  -
+    word: books
+    remark: '📚 books'
+  -
+    word: notebook
+    remark: '📓 notebook'
+  -
+    word: ledger
+    remark: '📒 ledger'
+  -
+    word: scroll
+    remark: '📜 scroll'
+  -
+    word: newspaper
+    remark: '📰 newspaper'
+  -
+    word: bookmark
+    remark: '🔖 bookmark'
+  -
+    word: label
+    remark: '🏷 label'
+  -
+    word: moneybag
+    remark: '💰 money bag'
+  -
+    word: yen
+    remark: '💴 yen banknote'
+  -
+    word: dollar
+    remark: '💵 dollar banknote'
+  -
+    word: euro
+    remark: '💶 euro banknote'
+  -
+    word: pound
+    remark: '💷 pound banknote'
+  -
+    word: receipt
+    remark: '🧾 receipt'
+  -
+    word: chart
+    remark: '💹 chart increasing with yen'
+  -
+    word: e-mail
+    remark: '📧 e-mail'
+  -
+    word: package
+    remark: '📦 package'
+  -
+    word: mailbox
+    remark: '📫 closed mailbox with raised flag'
+  -
+    word: postbox
+    remark: '📮 postbox'
+  -
+    word: pen
+    remark: '🖊 pen'
+  -
+    word: paintbrush
+    remark: '🖌 paintbrush'
+  -
+    word: crayon
+    remark: '🖍 crayon'
+  -
+    word: briefcase
+    remark: '💼 briefcase'
+  -
+    word: date
+    remark: '📅 calendar'
+  -
+    word: calendar
+    remark: '📆 tear-off calendar'
+  -
+    word: clipboard
+    remark: '📋 clipboard'
+  -
+    word: pushpin
+    remark: '📌 pushpin'
+  -
+    word: paperclip
+    remark: '📎 paperclip'
+  -
+    word: paperclips
+    remark: '🖇 linked paperclips'
+  -
+    word: scissors
+    remark: '✂️ scissors'
+  -
+    word: wastebasket
+    remark: '🗑 wastebasket'
+  -
+    word: lock
+    remark: '🔒 locked'
+  -
+    word: unlock
+    remark: '🔓 unlocked'
+  -
+    word: key
+    remark: '🔑 key'
+  -
+    word: hammer
+    remark: '🔨 hammer'
+  -
+    word: axe
+    remark: '🪓 axe'
+  -
+    word: pick
+    remark: '⛏ pick'
+  -
+    word: dagger
+    remark: '🗡 dagger'
+  -
+    word: gun
+    remark: '🔫 pistol'
+  -
+    word: shield
+    remark: '🛡 shield'
+  -
+    word: wrench
+    remark: '🔧 wrench'
+  -
+    word: gear
+    remark: '⚙ gear'
+  -
+    word: clamp
+    remark: '🗜 clamp'
+  -
+    word: link
+    remark: '🔗 link'
+  -
+    word: chains
+    remark: '⛓ chains'
+  -
+    word: toolbox
+    remark: '🧰 toolbox'
+  -
+    word: magnet
+    remark: '🧲 magnet'
+  -
+    word: alembic
+    remark: '⚗ alembic'
+  -
+    word: dna
+    remark: '🧬 dna'
+  -
+    word: microscope
+    remark: '🔬 microscope'
+  -
+    word: telescope
+    remark: '🔭 telescope'
+  -
+    word: satellite
+    remark: '📡 satellite antenna'
+  -
+    word: syringe
+    remark: '💉 syringe'
+  -
+    word: pill
+    remark: '💊 pill'
+  -
+    word: stethoscope
+    remark: '🩺 stethoscope'
+  -
+    word: door
+    remark: '🚪 door'
+  -
+    word: bed
+    remark: '🛏 bed'
+  -
+    word: chair
+    remark: '🪑 chair'
+  -
+    word: toilet
+    remark: '🚽 toilet'
+  -
+    word: shower
+    remark: '🚿 shower'
+  -
+    word: bathtub
+    remark: '🛁 bathtub'
+  -
+    word: razor
+    remark: '🪒 razor'
+  -
+    word: broom
+    remark: '🧹 broom'
+  -
+    word: basket
+    remark: '🧺 basket'
+  -
+    word: soap
+    remark: '🧼 soap'
+  -
+    word: sponge
+    remark: '🧽 sponge'
+  -
+    word: smoking
+    remark: '🚬 cigarette'
+  -
+    word: coffin
+    remark: '⚰ coffin'
+  -
+    word: moyai
+    remark: '🗿 moai'
