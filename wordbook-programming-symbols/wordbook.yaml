@@ -1,0 +1,90 @@
+wordway: 1.0.0
+info:
+  slug: programming-symbols
+  title: 常用编程符号
+  summary: ""
+  tags:
+    - 编程
+    - 编程符号
+  visibility: public
+  difficulty_level: D1
+  repository_type: git
+  repository_url: https://github.com/wordway/wordway-wordbooks/tree/master/wordbook-programming-symbols
+  author: "Wei-Xia"
+  author_email: "hi@weixia.dev"
+  author_link: "https://github.com/Wei-Xia/most-frequent-technology-english-words"
+words:
+  - word: period
+    remark: ". 句号"
+  - word: comma 
+    remark: ", 逗号"
+  - word: colon 
+    remark: ": 冒号"
+  - word: semicolon
+    remark: "; 分号"
+  - word: exclamation mark
+    remark: "! 惊叹号"
+  - word: question mark
+    remark: "? 问号"
+  - word: hyphen
+    remark: "- 连字符"
+  - word: asterisk
+    remark: "* 星号"
+  - word: dash
+    remark: "— 破折号"
+  - word: underscore
+    remark: "_ 下划线"
+  - word: single quotation mark
+    remark: "' 单引号"
+  - word: double quotation mark
+    remark: "\" 双引号"
+  - word: parenthesis
+    remark: "( ) 小括号，又称圆括号"
+  - word: square brackets
+    remark: "[ ] 中括号，又称方括号"
+  - word: curly brackets
+    remark: "{ } 大括号，又称花括号"
+  - word: angle brackets
+    remark: "< > 角括号，又称尖括号"
+  - word: greater than
+    remark: "> 大于号"
+  - word: less than
+    remark: "< 小于号"
+  - word: ellipsis
+    remark: "... 省略号"
+  - word: parallel
+    remark: "‖ 双线号"
+  - word: ampersand
+    remark: "＆ 和"
+  - word: tilde
+    remark: "～ 波浪号"
+  - word: section
+    remark: "§ 分节号"
+  - word: upwards arrow
+    remark: "↑ 向上箭头"
+  - word: right arrow
+    remark: "→ 向右箭头"
+  - word: downwards arrow
+    remark: "↓ 向下箭头"
+  - word: left arrow
+    remark: "← 向左箭头"
+  - word: slash 
+    remark: "／ 斜线号"
+  - word: backslash
+    remark: "\ 反斜线"
+  - word: plus sign
+    remark: "+ 加号"
+  - word: minus sign
+    remark: "- 减号"
+  - word: equal sign
+    remark: "= 等于号"
+  - word: dollar sign
+    remark: "$ 美元符号"
+  - word: at sign 
+    remark: "@"
+  - word: hash  
+    remark: "# 井号"
+  - word: percent sign
+    remark: "% 百分号"
+  - word: caret 
+    remark: "^ 折音号"
