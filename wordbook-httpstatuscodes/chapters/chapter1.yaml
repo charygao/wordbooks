@@ -1,14 +1,9 @@
 slug: chapter1
-title: '1xx 消息'
+title: "1xx 消息"
 summary: ""
 words:
-  -
-    word: informational
-  -
-    word: continue
-  -
-    word: switching
-  -
-    word: protocols
-  -
-    word: processing
+  - word: informational
+  - word: continue
+  - word: switching
+  - word: protocols
+  - word: processing
