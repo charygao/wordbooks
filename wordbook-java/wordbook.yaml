@@ -52,7 +52,6 @@ words:
   - word: return
   - word: short
   - word: static
-  - word: strictfp
   - word: super
   - word: switch
   - word: synchronized
